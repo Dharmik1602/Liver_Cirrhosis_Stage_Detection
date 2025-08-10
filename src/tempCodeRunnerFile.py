@@ -1,0 +1,1 @@
+data_path = "data\liver_cirrhosis.csv"
